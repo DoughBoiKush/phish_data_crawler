@@ -1,0 +1,2 @@
+2019-02-26 21:10:01.950514	11063 phish in database, 11063 are alive.
+2019-02-26 22:27:20.288122	11075 phish in database, 11009 are alive.
